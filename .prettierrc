@@ -4,8 +4,8 @@
 	"singleQuote": true,
 	"trailingComma": "none",
 	"plugins": [
-		"prettier-plugin-tailwindcss",
-		"@trivago/prettier-plugin-sort-imports"
+		"@trivago/prettier-plugin-sort-imports",
+		"prettier-plugin-tailwindcss"
 	],
 	"arrowParens": "avoid",
 	"semi": true,
