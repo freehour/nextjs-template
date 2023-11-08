@@ -1,4 +1,4 @@
-# NextUI Template
+# NextJS Template
 
 Template using Next.js, React, Tailwind CSS, ESLint, Prettier, and VSCode
 
